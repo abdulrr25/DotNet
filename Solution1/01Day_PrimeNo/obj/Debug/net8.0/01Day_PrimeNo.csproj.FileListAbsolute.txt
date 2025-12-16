@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\bin\Debug\net8.0\01Day_PrimeNo.exe
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\bin\Debug\net8.0\01Day_PrimeNo.deps.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\bin\Debug\net8.0\01Day_PrimeNo.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\bin\Debug\net8.0\01Day_PrimeNo.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\bin\Debug\net8.0\01Day_PrimeNo.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\refint\01Day_PrimeNo.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\01Day_PrimeNo.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_PrimeNo\obj\Debug\net8.0\ref\01Day_PrimeNo.dll

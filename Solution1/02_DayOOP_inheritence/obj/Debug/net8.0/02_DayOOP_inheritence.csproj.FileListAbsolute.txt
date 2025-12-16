@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\bin\Debug\net8.0\02_DayOOP_inheritence.exe
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\bin\Debug\net8.0\02_DayOOP_inheritence.deps.json
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\bin\Debug\net8.0\02_DayOOP_inheritence.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\bin\Debug\net8.0\02_DayOOP_inheritence.dll
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\bin\Debug\net8.0\02_DayOOP_inheritence.pdb
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.dll
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\refint\02_DayOOP_inheritence.dll
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.pdb
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\02_DayOOP_inheritence.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Solution1\02_DayOOP_inheritence\obj\Debug\net8.0\ref\02_DayOOP_inheritence.dll

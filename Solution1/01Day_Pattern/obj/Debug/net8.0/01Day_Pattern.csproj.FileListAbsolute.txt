@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\bin\Debug\net8.0\01Day_Pattern.exe
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\bin\Debug\net8.0\01Day_Pattern.deps.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\bin\Debug\net8.0\01Day_Pattern.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\bin\Debug\net8.0\01Day_Pattern.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\bin\Debug\net8.0\01Day_Pattern.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\refint\01Day_Pattern.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\ref\01Day_Pattern.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\bin\Debug\net8.0\01Day_Core.exe
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\bin\Debug\net8.0\01Day_Core.deps.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\bin\Debug\net8.0\01Day_Core.runtimeconfig.json
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\bin\Debug\net8.0\01Day_Core.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\bin\Debug\net8.0\01Day_Core.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.AssemblyInfo.cs
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\refint\01Day_Core.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.pdb
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\01Day_Core.genruntimeconfig.cache
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Core\obj\Debug\net8.0\ref\01Day_Core.dll

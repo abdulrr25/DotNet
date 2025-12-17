@@ -12,3 +12,4 @@ C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\refint\01Day_
 C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.pdb
 C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.genruntimeconfig.cache
 C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\ref\01Day_Pattern.dll
+C:\Users\IET\Desktop\.Net\Solution1\01Day_Pattern\obj\Debug\net8.0\01Day_Pattern.sourcelink.json

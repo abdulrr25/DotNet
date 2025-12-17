@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B596FA5-C514-4AE4-98A5-AB261BA45FCC}|02Day_DataBase_Inheritence\\02Day_DataBase_Inheritence.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\02day_database_inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B596FA5-C514-4AE4-98A5-AB261BA45FCC}|02Day_DataBase_Inheritence\\02Day_DataBase_Inheritence.csproj|solutionrelative:02day_database_inheritence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F335E1BF-D8EE-4FD5-ACC0-1140FFA571E2}|03Day_Sealed\\03Day_Sealed.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\03day_sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F335E1BF-D8EE-4FD5-ACC0-1140FFA571E2}|03Day_Sealed\\03Day_Sealed.csproj|solutionrelative:03day_sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA9E2701-A4AD-4CEF-9947-DC87FC4A16B7}|03Day_Notepad\\03Day_Notepad.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\03day_notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA9E2701-A4AD-4CEF-9947-DC87FC4A16B7}|03Day_Notepad\\03Day_Notepad.csproj|solutionrelative:03day_notepad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE19FA3D-31B8-46CA-801E-67767FAA790E}|03Day_Logger\\03Day_Logger.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\03day_logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE19FA3D-31B8-46CA-801E-67767FAA790E}|03Day_Logger\\03Day_Logger.csproj|solutionrelative:03day_logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Notepad\\Program.cs",
+              "RelativeDocumentMoniker": "03Day_Notepad\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Notepad\\Program.cs",
+              "RelativeToolTip": "03Day_Notepad\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T11:13:58.257Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\02Day_DataBase_Inheritence\\Program.cs",
-              "RelativeDocumentMoniker": "02Day_DataBase_Inheritence\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\02Day_DataBase_Inheritence\\Program.cs",
-              "RelativeToolTip": "02Day_DataBase_Inheritence\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCIAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Sealed\\Program.cs",
+              "RelativeDocumentMoniker": "03Day_Sealed\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Sealed\\Program.cs",
+              "RelativeToolTip": "03Day_Sealed\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T13:18:20.512Z",
+              "WhenOpened": "2025-12-17T10:54:24.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Logger\\Program.cs",
+              "RelativeDocumentMoniker": "03Day_Logger\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\03Day_Logger\\Program.cs",
+              "RelativeToolTip": "03Day_Logger\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAzwE0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:11:36.317Z",
               "EditorCaption": ""
             }
           ]

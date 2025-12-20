@@ -1,4 +1,6 @@
-﻿namespace _04Day_MulticastDelegator
+﻿using System;
+
+namespace _04Day_MulticastDelegator
 {
 
     public delegate void del1();
@@ -6,7 +8,29 @@
     {
         static void Main(string[] args)
         {
-            Program program = new Program();    
+            Console.WriteLine("Is Guest arrived?");
+            string isGuestArrived = Console.ReadLine();
+
+               CollegeProgram obj = new CollegeProgram();
+            // handler is our Muti-cast Delegate
+            del1 handler = obj.WelCome;
+            handler += obj.WelSpeech;
+            if (isGuestArrived == "y")
+            {
+                handler += obj.GuestSpeech;
+            }
+            else
+            {
+                // -= del-coupling operator
+                handler -= obj.GuestSpeech;
+            }
+            handler += obj.Dance;
+            handler += obj.Dinner;
+            handler += obj.GoodBye;
+            handler += obj.EndEvent;
+
+            handler();
+
         }
     }
 

@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{5F891C3C-4037-4B4E-B573-AD5FF27BDBE9}|06Day_CMath\\06Day_CMath.csproj|solutionrelative:06day_cmath\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|solutionrelative:06day_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_serialization\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|solutionrelative:06day_serialization\\data\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -40,7 +36,7 @@
               "RelativeDocumentMoniker": "06Day_Reflection\\Program.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Reflection\\Program.cs",
               "RelativeToolTip": "06Day_Reflection\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwA0AAAB5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-20T13:08:38.699Z",
               "EditorCaption": ""
@@ -60,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "data.json",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Data\\data.json",
               "RelativeDocumentMoniker": "06Day_Serialization\\Data\\data.json",
@@ -73,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "data.xml",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Data\\data.xml",
               "RelativeDocumentMoniker": "06Day_Serialization\\Data\\data.xml",
@@ -82,19 +78,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-12-20T12:20:06.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Program.cs",
-              "RelativeDocumentMoniker": "06Day_Serialization\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Program.cs",
-              "RelativeToolTip": "06Day_Serialization\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAA0wE4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T11:48:03.355Z",
               "EditorCaption": ""
             }
           ]

@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\07Day_BVSAttribute\07Day_BVSAttribute.csproj" />
+  </ItemGroup>
+
 </Project>

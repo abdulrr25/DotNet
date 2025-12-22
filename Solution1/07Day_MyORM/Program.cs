@@ -53,7 +53,7 @@ namespace _07Day_MyORM
                 createTableQuery = createTableQuery.TrimEnd(',') + " )";
                 Console.WriteLine(createTableQuery);
 
-                string filePath = @"C:\Users\IET\Desktop\.Net\Solution1\07Day_MyORM\SQLQUERY\CreateTableQueries.sql";
+                string filePath = @"C:\Users\IET\Desktop\.Net\Solution1\07Day_MyORM\SQLQUERY\CreateTableQuery.sql";
 
                 File.WriteAllText(filePath, createTableQuery);
 

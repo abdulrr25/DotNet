@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|solutionrelative:06day_serialization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|solutionrelative:07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A05F504-15C3-4F70-A2E1-AA33F8943CAC}|06Day_Reflection\\06Day_Reflection.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A05F504-15C3-4F70-A2E1-AA33F8943CAC}|06Day_Reflection\\06Day_Reflection.csproj|solutionrelative:06day_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D84DD78-CE86-4D88-82D3-C590A17B3E95}|07Day_MyORM\\07Day_MyORM.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_myorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D84DD78-CE86-4D88-82D3-C590A17B3E95}|07Day_MyORM\\07Day_MyORM.csproj|solutionrelative:07day_myorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_serialization\\data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{05BAFA26-6F65-4E85-95BB-78C6CF15303B}|06Day_Serialization\\06Day_Serialization.csproj|solutionrelative:06day_serialization\\data\\data.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C44E1402-3801-49EC-AEC8-591EFE8C3955}|07Day_BVSAttribute\\07Day_BVSAttribute.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_bvsattribute\\bvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C44E1402-3801-49EC-AEC8-591EFE8C3955}|07Day_BVSAttribute\\07Day_BVSAttribute.csproj|solutionrelative:07day_bvsattribute\\bvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F891C3C-4037-4B4E-B573-AD5FF27BDBE9}|06Day_CMath\\06Day_CMath.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\06day_cmath\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F891C3C-4037-4B4E-B573-AD5FF27BDBE9}|06Day_CMath\\06Day_CMath.csproj|solutionrelative:06day_cmath\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA553BB2-EC99-43D1-A772-317CF3EBF68D}|07Day_LyLib\\07Day_EmpLib.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_lylib\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA553BB2-EC99-43D1-A772-317CF3EBF68D}|07Day_LyLib\\07Day_EmpLib.csproj|solutionrelative:07day_lylib\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "data.xml",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Data\\data.xml",
-              "RelativeDocumentMoniker": "06Day_Serialization\\Data\\data.xml",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Data\\data.xml",
-              "RelativeToolTip": "06Day_Serialization\\Data\\data.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-12-20T13:24:08.102Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Program.cs",
-              "RelativeDocumentMoniker": "06Day_Serialization\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Serialization\\Program.cs",
-              "RelativeToolTip": "06Day_Serialization\\Program.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAgwCUAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
+              "RelativeDocumentMoniker": "07Day_MyApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
+              "RelativeToolTip": "07Day_MyApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:21:06.569Z",
+              "WhenOpened": "2025-12-22T14:00:42.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Reflection\\Program.cs",
-              "RelativeDocumentMoniker": "06Day_Reflection\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_Reflection\\Program.cs",
-              "RelativeToolTip": "06Day_Reflection\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwEAAAAAeAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyORM\\Program.cs",
+              "RelativeDocumentMoniker": "07Day_MyORM\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyORM\\Program.cs",
+              "RelativeToolTip": "07Day_MyORM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:08:38.699Z",
+              "WhenOpened": "2025-12-22T13:39:29.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BVS.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_BVSAttribute\\BVS.cs",
+              "RelativeDocumentMoniker": "07Day_BVSAttribute\\BVS.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_BVSAttribute\\BVS.cs",
+              "RelativeToolTip": "07Day_BVSAttribute\\BVS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T13:19:21.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_CMath\\Class1.cs",
-              "RelativeDocumentMoniker": "06Day_CMath\\Class1.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\06Day_CMath\\Class1.cs",
-              "RelativeToolTip": "06Day_CMath\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Title": "Emp.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_LyLib\\Emp.cs",
+              "RelativeDocumentMoniker": "07Day_LyLib\\Emp.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_LyLib\\Emp.cs",
+              "RelativeToolTip": "07Day_LyLib\\Emp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-20T13:07:16.739Z",
+              "WhenOpened": "2025-12-22T13:13:25.128Z",
               "EditorCaption": ""
             }
           ]

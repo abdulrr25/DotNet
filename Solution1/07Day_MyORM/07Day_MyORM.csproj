@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_07Day_MyORM</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="SQLQUERY\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\07Day_LyLib\07Day_EmpLib.csproj" />
+  </ItemGroup>
+
+</Project>

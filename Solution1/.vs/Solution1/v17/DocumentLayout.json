@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{6D84DD78-CE86-4D88-82D3-C590A17B3E95}|07Day_MyORM\\07Day_MyORM.csproj|solutionrelative:07day_myorm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA553BB2-EC99-43D1-A772-317CF3EBF68D}|07Day_LyLib\\07Day_EmpLib.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_lylib\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FA553BB2-EC99-43D1-A772-317CF3EBF68D}|07Day_LyLib\\07Day_EmpLib.csproj|C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07day_lylib\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA553BB2-EC99-43D1-A772-317CF3EBF68D}|07Day_LyLib\\07Day_EmpLib.csproj|solutionrelative:07day_lylib\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|solutionrelative:07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C44E1402-3801-49EC-AEC8-591EFE8C3955}|07Day_BVSAttribute\\07Day_BVSAttribute.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_bvsattribute\\bvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C44E1402-3801-49EC-AEC8-591EFE8C3955}|07Day_BVSAttribute\\07Day_BVSAttribute.csproj|solutionrelative:07day_bvsattribute\\bvs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7108489-2FF7-4A1C-A93F-4E7244974280}|07Day_MyApplication\\07Day_MyApplication.csproj|solutionrelative:07day_myapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A126F95-A3E7-45C2-8BE2-D0C108C5E49E}|07Day_CustomAttribute\\07Day_CustomAttribute.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\07day_customattribute\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A126F95-A3E7-45C2-8BE2-D0C108C5E49E}|07Day_CustomAttribute\\07Day_CustomAttribute.csproj|solutionrelative:07day_customattribute\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
-              "RelativeDocumentMoniker": "07Day_MyApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
-              "RelativeToolTip": "07Day_MyApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T14:00:42.417Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -49,22 +40,48 @@
               "RelativeDocumentMoniker": "07Day_MyORM\\Program.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyORM\\Program.cs",
               "RelativeToolTip": "07Day_MyORM\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDcAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T13:39:29.321Z",
+              "WhenOpened": "2025-12-24T08:42:18.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_CustomAttribute\\Table.cs",
+              "RelativeDocumentMoniker": "07Day_CustomAttribute\\Table.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_CustomAttribute\\Table.cs",
+              "RelativeToolTip": "07Day_CustomAttribute\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:42:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BVS.cs",
               "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_BVSAttribute\\BVS.cs",
               "RelativeDocumentMoniker": "07Day_BVSAttribute\\BVS.cs",
               "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_BVSAttribute\\BVS.cs",
               "RelativeToolTip": "07Day_BVSAttribute\\BVS.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T13:19:21.915Z",
+              "WhenOpened": "2025-12-24T08:42:30.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
+              "RelativeDocumentMoniker": "07Day_MyApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\07Day_MyApplication\\Program.cs",
+              "RelativeToolTip": "07Day_MyApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T14:00:42.417Z",
               "EditorCaption": ""
             },
             {

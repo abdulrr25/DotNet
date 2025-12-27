@@ -36,8 +36,7 @@ namespace _37Demo_CSharpFeatures
             #endregion
 
             #region Anonymous Methods with Mydelegate and delegate keyword: 
-            // Nonymous MEthods: Methods without name, local methods, can not be used elesewhere in application, used for short purposes, 
-            // like conditional check OR holder
+            // Nonymous MEthods: Methods without name, local methods, can not be used elesewhere in application, used for short purposes, like conditional check OR holder
 
             //MyDelegate del = new MyDelegate(delegate (int num)
             //                                {
@@ -79,9 +78,7 @@ namespace _37Demo_CSharpFeatures
             #endregion
 
             #region Predicate<T> in-built delegate 
-            // Predicate is in-built delegate which always points to a method which checks some condition and returns true/false 
-            // boolean kind of output
-            
+            // Predicate is in-built delegate which always points to a method which checks some condition and returns true/ false - boolean kind of output
             //Predicate<int> del = num => num > 10;
 
             //if (del(no))
@@ -140,7 +137,7 @@ namespace _37Demo_CSharpFeatures
             //} 
             #endregion
 
-            #region Extension MEthods: Demo 02  
+            #region Extension MEthods: Demo 02
             //int[] numbers = { 101, 102, 103, 104, 105 };
             //string[] days = { "Mon", "Tue", "Wed", "Sun" };
 

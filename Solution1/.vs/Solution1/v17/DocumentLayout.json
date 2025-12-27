@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{575DC022-9228-4F0F-852C-A0A0A52BD327}|08Day_Linq3\\08Day_Linq3.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\08day_linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{575DC022-9228-4F0F-852C-A0A0A52BD327}|08Day_Linq3\\08Day_Linq3.csproj|solutionrelative:08day_linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1FC7DBB-B2CB-4D85-A97C-1AB73560335F}|09Day_ConnectedCRUD\\09Day_ConnectedCRUD.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\09day_connectedcrud\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FC7DBB-B2CB-4D85-A97C-1AB73560335F}|09Day_ConnectedCRUD\\09Day_ConnectedCRUD.csproj|solutionrelative:09day_connectedcrud\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{997DD099-2B98-4479-9DEB-EDBD80EA143B}|08Day_LinQ2\\08Day_LinQ2.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\08day_linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{997DD099-2B98-4479-9DEB-EDBD80EA143B}|08Day_LinQ2\\08Day_LinQ2.csproj|solutionrelative:08day_linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1FC7DBB-B2CB-4D85-A97C-1AB73560335F}|09Day_ConnectedCRUD\\09Day_ConnectedCRUD.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\09day_connectedcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FC7DBB-B2CB-4D85-A97C-1AB73560335F}|09Day_ConnectedCRUD\\09Day_ConnectedCRUD.csproj|solutionrelative:09day_connectedcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\08Day_Linq3\\Program.cs",
-              "RelativeDocumentMoniker": "08Day_Linq3\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\08Day_Linq3\\Program.cs",
-              "RelativeToolTip": "08Day_Linq3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAFAAAAAAAAAA==",
+              "Title": "IETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\09Day_ConnectedCRUD\\DAL\\IETDbContext.cs",
+              "RelativeDocumentMoniker": "09Day_ConnectedCRUD\\DAL\\IETDbContext.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\09Day_ConnectedCRUD\\DAL\\IETDbContext.cs",
+              "RelativeToolTip": "09Day_ConnectedCRUD\\DAL\\IETDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwD0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T14:29:19.714Z",
+              "WhenOpened": "2025-12-27T14:02:39.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\08Day_LinQ2\\Program.cs",
-              "RelativeDocumentMoniker": "08Day_LinQ2\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\08Day_LinQ2\\Program.cs",
-              "RelativeToolTip": "08Day_LinQ2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\09Day_ConnectedCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "09Day_ConnectedCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\09Day_ConnectedCRUD\\Program.cs",
+              "RelativeToolTip": "09Day_ConnectedCRUD\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv0kAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T14:21:53.269Z",
+              "WhenOpened": "2025-12-27T13:47:39.918Z",
               "EditorCaption": ""
             }
           ]

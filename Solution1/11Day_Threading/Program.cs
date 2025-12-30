@@ -14,23 +14,64 @@
             //method1();
             //method2();
             //method3();
+            #region Custom Threads and ThreadStart Delegate 
+            //Thread t1 = new Thread(method1) { Name = "th 01" };
+            //Thread t2 = new Thread(method2) { Name = "th 02" };
+            //Thread t3 = new Thread(method3) { Name = "th 03" };
 
-            Thread t1 = new Thread(method1) { Name = "th 01" };
-            Thread t2 = new Thread(method2) { Name = "th 02" };
-            Thread t3 = new Thread(method3) { Name = "th 03" };
+            //t1.Start();
+            //t2.Start();
+            //t3.Start();
 
-            t1.Start();
-            t2.Start();
-            t3.Start();
+            //ThreadStart ts = new ThreadStart(() =>
+            //{
+            //    Console.WriteLine("Method Call...");
+            //});
+            //Thread t4 = new Thread(ts);
+            //t4.Start();
+            #endregion
 
-            ThreadStart ts = new ThreadStart(() =>
+            #region isAlive and Join Method
+            Console.WriteLine("Main method execution started");
+
+            Thread t5 = new Thread(Program.F1);
+            t5.Start();
+            Thread t6 = new Thread(Program.F2);
+            t6.Start();
+
+            if (t5.Join(2000))
             {
-                Console.WriteLine("Method Call...");
-            });
-            Thread t4 = new Thread(ts);
-            t4.Start();
+                Console.WriteLine("F1 execution complete");
+            }
+
+            t6.Join();
+            Console.WriteLine("F2 execution complete");
+
+            if (t5.IsAlive)
+            {
+                Console.WriteLine("F1 execution is still going on");
+            }
+            else
+            {
+                Console.WriteLine("F1 execution is complete");
+            }
+
+            Console.WriteLine("Main method execution complete");
+            #endregion
 
 
+        }
+
+        static void F1()
+        {
+            Console.WriteLine("F1 method execution started");
+            Thread.Sleep(5000);
+            Console.WriteLine("method F1 is awake");
+            Console.WriteLine("F1 execution complete");
+        }
+        static void F2()
+        {
+            Console.WriteLine("F2 method execution started");
         }
 
         static void method1()

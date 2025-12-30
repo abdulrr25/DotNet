@@ -95,6 +95,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Day_EntityFramework", "10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10Day_Exceptionhandling", "10Day_Exceptionhandling\10Day_Exceptionhandling.csproj", "{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Day_GarbageCollector", "11Day_GarbageCollector\11Day_GarbageCollector.csproj", "{FBC6C3F4-365C-42EF-A417-A645E1E3589E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Day_Threading", "11Day_Threading\11Day_Threading.csproj", "{9B448848-16F8-4914-AB97-127ACB021052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +289,14 @@ Global
 		{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC6C3F4-365C-42EF-A417-A645E1E3589E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC6C3F4-365C-42EF-A417-A645E1E3589E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC6C3F4-365C-42EF-A417-A645E1E3589E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC6C3F4-365C-42EF-A417-A645E1E3589E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B448848-16F8-4914-AB97-127ACB021052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B448848-16F8-4914-AB97-127ACB021052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B448848-16F8-4914-AB97-127ACB021052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B448848-16F8-4914-AB97-127ACB021052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}|10Day_Exceptionhandling\\10Day_Exceptionhandling.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\10day_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF78DF87-9708-4C67-BB61-DD5ED168A4E6}|10Day_Exceptionhandling\\10Day_Exceptionhandling.csproj|solutionrelative:10day_exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\10day_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|solutionrelative:10day_entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\10day_entityframework\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|solutionrelative:10day_entityframework\\model\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\10day_entityframework\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|solutionrelative:10day_entityframework\\dal\\ietdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\10day_entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6356BFEB-5FC2-4557-A0C9-854E73CF946D}|10Day_EntityFramework\\10Day_EntityFramework.csproj|solutionrelative:10day_entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9B448848-16F8-4914-AB97-127ACB021052}|11Day_Threading\\11Day_Threading.csproj|c:\\users\\iet\\desktop\\.net\\solution1\\11day_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B448848-16F8-4914-AB97-127ACB021052}|11Day_Threading\\11Day_Threading.csproj|solutionrelative:11day_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,65 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_Exceptionhandling\\Program.cs",
-              "RelativeDocumentMoniker": "10Day_Exceptionhandling\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_Exceptionhandling\\Program.cs",
-              "RelativeToolTip": "10Day_Exceptionhandling\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\11Day_Threading\\Program.cs",
+              "RelativeDocumentMoniker": "11Day_Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\11Day_Threading\\Program.cs",
+              "RelativeToolTip": "11Day_Threading\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T13:18:49.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\appsettings.json",
-              "RelativeDocumentMoniker": "10Day_EntityFramework\\appsettings.json",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\appsettings.json",
-              "RelativeToolTip": "10Day_EntityFramework\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-29T12:54:12.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IETDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\DAL\\IETDbContext.cs",
-              "RelativeDocumentMoniker": "10Day_EntityFramework\\DAL\\IETDbContext.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\DAL\\IETDbContext.cs",
-              "RelativeToolTip": "10Day_EntityFramework\\DAL\\IETDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:50:18.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Emp.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\Model\\Emp.cs",
-              "RelativeDocumentMoniker": "10Day_EntityFramework\\Model\\Emp.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\Model\\Emp.cs",
-              "RelativeToolTip": "10Day_EntityFramework\\Model\\Emp.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:41:13.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\Program.cs",
-              "RelativeDocumentMoniker": "10Day_EntityFramework\\Program.cs",
-              "ToolTip": "C:\\Users\\IET\\Desktop\\.Net\\Solution1\\10Day_EntityFramework\\Program.cs",
-              "RelativeToolTip": "10Day_EntityFramework\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswD4AAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T12:38:28.326Z",
+              "WhenOpened": "2025-12-30T09:57:03.75Z",
               "EditorCaption": ""
             }
           ]
